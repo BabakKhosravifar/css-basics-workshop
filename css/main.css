@@ -1,1 +1,20 @@
 /* write your css here */
+ul.rig {
+	list-style: none;
+	font-size: 0px;
+	margin-left: -2.5%; 
+}
+ul.rig li {
+	display: inline-block;
+	padding: 5px;
+	margin: 0 10 2.5% 2.5%;
+	background: #ffffff;
+	border: 1px solid gray;
+}
+ul.rig li img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+
