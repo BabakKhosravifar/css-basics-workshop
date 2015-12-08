@@ -1,1 +1,22 @@
 /* write your css here */
+#navigationMenu{
+    background:rgba(0,0,0,0.5);
+    height: 20px;
+    padding: 0.5em;
+    display:fixed;
+}
+
+#navigationMenu li {
+  display: inline;
+  border: 1px solid white;
+  margin-bottom:30px;
+  padding: 0px 30px 2px 16px;
+  line-height:1px;
+}
+
+
+#navigationMenu li a{
+  
+    color:white;
+    text-decoration:none;
+}
