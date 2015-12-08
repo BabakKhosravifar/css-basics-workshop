@@ -1,1 +1,25 @@
 /* write your css here */
+.dialog-box {
+    background-color: #d2d2d2;
+    width:600px;
+    height:350px;
+}
+.dialog-box__title {
+
+}
+.dialog-box__content {
+    background-color: #F2F2F2;
+    margin-left:10px;
+    margin-right:10px;
+   
+}
+.dialog-box__close {
+    border: 2px solid white;
+    background-color: tomato;
+    width: 24px;
+    height: 24px;
+    float:right;
+    margin-right:5px;
+    margin-top:5px;
+    
+}
